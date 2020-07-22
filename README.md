@@ -1,2 +1,2 @@
-# flutter_tiktok_clone
+# Flutter Tiktok Clone
  A TikTok clone with flutter and firebase.
